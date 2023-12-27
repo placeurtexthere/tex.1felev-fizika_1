@@ -1,0 +1,74 @@
+\documentclass[10pt]{article}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{subfiles}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{indentfirst}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{geometry}
+	\geometry{a4paper, total={170mm,257mm}, left=20mm, top=20mm, }
+
+\renewcommand*\contentsname{Tartalomjegyzék}
+
+\AddToHook{cmd/section/before}{\clearpage}
+
+\begin{document}
+\begin{titlepage}
+	\centering \vfill
+	{\textsc{Budapesti Műszaki és Gazdaságtudományi Egyetem} \par} \vspace{7cm}
+	{\huge\bfseries Fizika 1\par} \vspace{0.5cm}
+	{\large \textsc{Kidolgozott szóbeli tételsor}\par} \vspace{1.5cm}
+	{\Large\itshape Készítette: Illyés Dávid Gyula\par} \vfill
+
+	\noindent\fbox{%
+    	\parbox{140mm}{
+			\color{red}\textbf{Ez  a jegyzet nagyon hasonlóan van struktúrálva az előadás jegyzetekhez és fő célja, hogy olyan módon adja át a "A Programozás Alapjai 1" nevű tárgy anyagát, hogy az teljesen kezdők számára is könnyen megérthető és megtanulható legyen. }
+   		}
+	}
+
+	\vfill {\large \today\par}
+\end{titlepage}
+\tableofcontents
+\addtocontents{toc}{~\hfill\textbf{Oldal}\par}
+
+	\section{Kinematika}
+
+		\subfile{sections/1/kinematika.tex}
+
+	\section{Dinamika alapjai}
+
+		%\subfile{sections/2/minktgffa.tex}
+
+	\section{Gyorsuló vonatkoztatási rendszerek}
+
+		%\subfile{sections/3/bfsdijkstra.tex}
+
+	\section{Mozgások energetikája}
+
+		%\subfile{sections/4/fordfloyddfs.tex}
+
+	\section{Pontrendszerek dinamikája}
+
+		%\subfile{sections/5/eulerhamilton.tex}
+
+	\section{Forgó mozgás dinamikája}
+
+		%\subfile{sections/6/sikgrafok.tex}
+
+	\section{Merev testek forgómozgása}
+
+		%\subfile{sections/7/gausseliminacio.tex}
+
+	\section{Rezgések}
+
+	\section{Hullámok}
+
+	\section{Hőten alapjai}
+
+	\section{Körfolyamatok, hőerőgépek}
+
+	\section{Cseppfolyós és szilárd anyagok hőtana}
+
+
+\end{document}

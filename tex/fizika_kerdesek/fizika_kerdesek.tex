@@ -1,0 +1,64 @@
+\documentclass[10pt]{article}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{subfiles}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{indentfirst}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{stackrel}
+\usepackage{geometry}
+	\geometry{a4paper, total={170mm,257mm}, left=20mm, top=20mm, }
+
+\renewcommand*\contentsname{Tartalomjegyzék}
+
+\AddToHook{cmd/section/before}{\clearpage}
+
+\begin{document}
+\begin{titlepage}
+	\centering \vfill
+	{\textsc{Budapesti Műszaki és Gazdaságtudományi Egyetem} \par} \vspace{7cm}
+	{\huge\bfseries Fizika 1\par} \vspace{0.5cm}
+	{\large \textsc{Mondat kiegészítő feladatok gyűjteménye 2016 - 2023}\par} \vspace{1.5cm}
+	{\Large\itshape Készítette: Illyés Dávid Gyula\par} \vfill
+
+	\noindent\fbox{%
+    	\parbox{140mm}{
+			Ez a jegyzet a Fizika 1 tárgy ZH-kban és Vizsgákban lévő mondat kiegészítős feladatokat gyűjti össze, a könnyebb felkészülés könnyítése érdekében. Minden sorban a \underline{\textbf{félkövér aláhúzott}} szó/kifejezés/képlet a kiegészített része a mondatnak. Néhány esetben, amikor képletek a megoldások valamiért nem vállik félkövérré a szöveg, de ugyan úgy alá van húzva! Elnézést kérek a kellemetlenségekért.
+   		}
+	}
+
+	\vfill {\large \today\par}
+\end{titlepage}
+\tableofcontents
+\addtocontents{toc}{~\hfill\textbf{Oldal}\par}
+
+	\section{2016}	
+
+		\subfile{sections/2016/2016.tex}
+
+	\section{2017}
+
+		\subfile{sections/2017/2017.tex}
+
+	\section{2018}
+
+		\subfile{sections/2018/2018.tex}
+
+	\section{2019}
+
+		\subfile{sections/2019/2019.tex}
+
+	\section{2021}
+
+		\subfile{sections/2021/2021.tex}
+
+	\section{2022}
+
+		\subfile{sections/2022/2022.tex}
+
+	\section{2023}
+
+		\subfile{sections/2023/2023.tex}
+
+\end{document}
