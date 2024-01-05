@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1703349584 "/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/sections/2022/2022.tex" "sections/2022/2022.pdf" "2022" 1703349585 0
-  "/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/sections/2022/2022.tex" 1703349584 7383 4ebe50c10293c078895e5c36ab770987 ""
+["pdflatex"] 1704213244 "/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/sections/2022/2022.tex" "sections/2022/2022.pdf" "2022" 1704213246 0
+  "/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/sections/2022/2022.tex" 1704213242 17454 d28622f9300a6c70b0d765eddfb373bb ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -18,6 +18,7 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1248133631 31809 8670ca339bf94e56da1fc21c80635e2a ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -68,9 +69,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1694545731 4681924 2c19acd65d59ba67d808d6d74d1273b0 ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1694545878 8183370 1c525ac4ee073a127ca1a6d396f25aaf ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "sections/2022/../../fizika_kerdesek.tex" 1703262485 1755 3d3f4fdc805ccefc9bb91f2f203faeaf ""
-  "sections/2022/2022.aux" 1703349585 1184 470d6d9c5e2e01dbfe768c8ebc6fbc9d "pdflatex"
-  "sections/2022/2022.tex" 1703349584 7383 4ebe50c10293c078895e5c36ab770987 ""
+  "sections/2022/../../fizika_kerdesek.tex" 1704213220 1755 3d3f4fdc805ccefc9bb91f2f203faeaf ""
+  "sections/2022/2022.aux" 1704213245 785 5b3431f6080bb944df1a30ca91a97c85 "pdflatex"
+  "sections/2022/2022.tex" 1704213242 17454 d28622f9300a6c70b0d765eddfb373bb ""
   (generated)
   "sections/2022/2022.aux"
   "sections/2022/2022.log"

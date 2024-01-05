@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  22 DEC 2023 10:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  30 DEC 2023 15:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -169,13 +169,27 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 )
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/oberdiek/stackrel.sty
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-))
+)
 \Gm@cnth=\count274
 \Gm@cntv=\count275
 \c@Gm@tempcnt=\count276
@@ -281,38 +295,53 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (sections/2019/2019.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 2846) in paragraph at lines 60--61
+[]\OT1/cmr/m/n/10 (+20) Az adi-a-batikus ^^Sallapotv^^Saltoz^^Sasokat le^^S^^Pr^^So $\OML/cmm/m/it/10 PV[] \OT1/cmr/m/n/10 (+20) =$ \OT1/cmr/m/it/10 (+20) ^^Salland^^So \OT1/cmr/m/n/10 (+20) ^^?osszef^^?ugg^^Sesben a $\OML/cmm/m/it/10 k$ \OT1/cmr/m/n/10 (+20) kitev}o a g^^Saz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+[]\OT1/cmr/m/n/10 (+20) F^^?old felsz^^S^^Pn^^Sehez k^^?ozel, k^^?orp^^Saly^^San ker-ing}o m}uhold cen-tripet^^Salis gy-or-sul^^Sasa meg-e-gyezik a
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 74--75
+[]\OT1/cmr/m/n/10 (+20) A neh^^Sezs^^Segi er}ot^^Ser konz-er-vat^^S^^Pv, hiszen az er}ot^^Ser ^^Saltal egy t^^?omegponton v^^Segzett munka csak
+ []
+
+[2] [3] (sections/2019/2019.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6034 strings out of 474934
- 92723 string characters out of 5759811
- 1919807 words of memory out of 5000000
- 27500 multiletter control sequences out of 15000+600000
- 561319 words of font info for 59 fonts, out of 8000000 for 9000
+ 6345 strings out of 474934
+ 98693 string characters out of 5759811
+ 1939807 words of memory out of 5000000
+ 27772 multiletter control sequences out of 15000+600000
+ 562289 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,5n,82p,1084b,130s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on sections/2019/2019.pdf (1 page, 19879 bytes).
+ 77i,5n,82p,1084b,232s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on sections/2019/2019.pdf (3 pages, 105138 bytes).
 PDF statistics:
- 18 PDF objects out of 1000 (max. 8388607)
- 10 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 12289 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 14337 words of extra memory for PDF output out of 14400 (max. 10000000)
 

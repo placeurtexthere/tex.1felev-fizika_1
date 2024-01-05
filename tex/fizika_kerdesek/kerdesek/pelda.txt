@@ -1,0 +1,48 @@
+A tehetetlenségi törvénye csak \underline{\textbf{inerciarendszer}} -ben érvényes.
+Függőlegesen elhajítunk egy labdát, mely $h$ magasságban emelkedik, majd visszacsik és elkapjuk. Az elmozdulás nagysága \underline{\textbf{nulla}}.
+A ferde hajítás során a test \underline{\textbf{gyorsulás}} vektora  mindgvégig állandó.
+Lejtőre helyezett testre ható tartóerő a lejtő hajlásszögének \underline{\textbf{cosinusával}} arányos.
+Az $F_{ts}$ tapadási súrlódási erő és a felületeket összenyomó $F_t$ erő között az alábbi összefüggés áll fenn: \underline{\textbf{$F_{ts} \le F_e \cdot \mu_0$}} ahol $\mu_0$ a \underline{\textbf{tapadási súrlódási együttható}}.
+Egy elütött jégkorong lassulásának nagysága 0,5 $m/s^2$. A jég és a korong közti csúszási súrlódási együttható értéke közelítőleg: \underline{\textbf{0,05}}.
+A Föld déli féltekén északi irányban közlekedő vonatokra \underline{\textbf{nyugatra}} mutató Coriolis-erő hat.
+Lefelé gyorsuló liftben a lifthez képest nyugvó testre ható gravitációs erő \underline{\textbf{ugyanakkora}}, mint egy nyugvó ligtben elhelyezett testre ható gravitációs erő.
+Egy Hooke-törvénynek engedelmeskedő rugalmas erőtérben mozgó test potenciális energiáját az alábbi összefüggés adja meg: \underline{\textbf{$\dfrac{1}{2}kx^2$}} ahol $k$ a \underline{\textbf{rugóállandó}}.
+A Nap gravitációs erőtérnek Földön végzett munkája egy év alatt \underline{\textbf{nulla}}.
+A \underline{\textbf{munkatétel}} értelmében a testre ható erők eredőjének munkája egyenlő a test mozgási energiájának megváltozásával.
+Konzervatív erőtérben mozgó test \underline{\textbf{mechanikai energiája}} megmarad.
+
+
+
+
+\underline{\textbf{Inerciarendszerben}} a magára hagyott testek megőrzik mozgásállapotukat. 
+Ha azt szeretnénk, hogy egy test háromszor olyan hosszú ideig essen szabadon, \underline{\textbf{kilencszer}} nagyobb magasságból kell leejtenünk.
+A ferde hajítás pályájának tetőpontján a test sebességének \underline{\textbf{függőleges öszetevője}} zérus.
+Könnyen gördülő bicikli állandósult sebességgel gurul le egy lejtőn. A biciklire ható közegellenállási erő egyensúlyt tart a nehézségi erő \underline{\textbf{lejtővel párhuzamos összetevőjével}}.
+A Föld felszínén a legnagyobb centrifugális erő a/z \underline{\textbf{egyenlítőn}} elhelyezett testekre hat.
+A föld déli féltekén déli irányban közlekedő vonatokra \underline{\textbf{kelet felé}} mutató Coriolis-erő hat.
+Elhajított kiterjedt test \underline{\textbf{tömegközéppontja}} parabola pályán mozog.
+Konzervatív erőtér munkája nem függ az erőtérben mozgó test által megtett útról, csak a mozgás \underline{\textbf{kezdő- és végpontjának}} helyzetétől.
+Egy erő munkája az erő és az elmozdulás által bezárt szög \underline{\textbf{cosinusával}}.
+Adott sebességű autó megállításakor a fékbetétek által végzett munka \underline{\textbf{ugyanakkora}}, ha a fékutat felére csökkentjük.
+Súlyerőnek hívjuk azt az erőt, amellyel a test \underline{\textbf{az alátámasztást nyomja}}. A súlyerő \underline{\textbf{az alátámasztás}} -ra/re hat.
+\underline{\textbf{Konzervatív}} erőtérben mozgó test mechanikai energiája megmarad.
+
+
+
+
+
+A testek mozgásállapot változó hatás ellenében tanúsított ellenhatást a \underline{\textbf{(tehetetlen) tömeg}} nevű fizikai mennyiséggel jellemezzük.
+Rugalmatlan ütközés előtt a testek mechanikai energiáinak összege mindig \underline{\textbf{nagyobb}} mint ütközés után.
+Inerciarendszerekben igaz a \underline{\textbf{tehetetlenség}} törvénye.
+Egy hullámvasút egy függőleges síkú hurok legfelső pontján mozog, az utasok mégsem esnek ki. Ekkor a jármű \underline{\textbf{centripetális}} gyorsulása nagyobb, mint \underline{\textbf{g}}.
+Tömegpontrendszerben teljes impulzusa megmarad, ha a tömegpontrendszerre ható külső \underline{\textbf{erők eredője nulla}}.
+\underline{\textbf{Centrális}} erőtérben mozgó tömegpontra ható erő mindig párhuzamos egy adott vonatkoztatási pontból a tömegponthoz húzott sugárral.
+Kepler III. törvénye értelmében a bolygópályák nagytengelyeinek \underline{\textbf{köbei}} úgy aránylanak egymáshoz, mint a keringési idők \underline{\textbf{négyzetei}}.
+Hőtágulás következtében egy forgó test minden mérete arányosan megnő $\gamma$-szorosára. A tehetetlenségi nyomatéka ekkor \underline{\textbf{$\gamma^2$}} szorosára nő.
+A munkatétel értelmében a testre ható erők munkája egyenlő a test \underline{\textbf{kinetikus energiájának megváltozásával}}.
+A mindkét végén nyitott síp alapharmonikusának, mint állóhullámnak a csomópontja a síp \underline{\textbf{közepén}} található.
+Mechanikus hullámokat terjesztő közeg minden egyes pontja \underline{\textbf{rezgő}} mozgást végez.
+\underline{\textbf{Izochor}} folyamatokban a gáz nyomása egyenesen arányos a hőmérséklettel.
+Izochor folyamat esetén a \underline{\textbf{gáz belső energiájának megváltozása}} megegyezik a gázzal közölt hőmennyiséggel.
+A \underline{\textbf{termodinamika II. főtételének}} értelmében nem konstruálható olyan hőerőgép, mely a befektetett hőt teljes egészében mechanikai munkává tudná alakítani.
+Az \underline{\textbf{intenzív}} állapotjellemzők kölcsönhatás során kiegyenlítődnek.

@@ -1,0 +1,9 @@
+minden zh összes válasza után légyszives nyomj 5-6 Enter-t
+
+\underline{\textbf{}}
+
+
+A kérdés szövege \underline{\textbf{a kérdés válasza}} a kérdés szövege.
+
+
+
