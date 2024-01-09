@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  21 DEC 2023 20:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  8 JAN 2024 16:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -169,13 +169,27 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 )
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/oberdiek/stackrel.sty
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-))
+)
 \Gm@cnth=\count274
 \Gm@cntv=\count275
 \c@Gm@tempcnt=\count276
@@ -301,15 +315,15 @@ L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6043 strings out of 474934
- 92796 string characters out of 5759811
+ 6322 strings out of 474934
+ 98481 string characters out of 5759811
  1927807 words of memory out of 5000000
- 27507 multiletter control sequences out of 15000+600000
+ 27768 multiletter control sequences out of 15000+600000
  561370 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,6n,82p,1084b,210s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on sections/2016/2016.pdf (1 page, 82067 bytes).
+Output written on sections/2016/2016.pdf (1 page, 81893 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream

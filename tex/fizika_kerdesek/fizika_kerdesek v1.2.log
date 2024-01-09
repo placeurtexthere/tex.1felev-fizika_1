@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  2 JAN 2024 17:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  8 JAN 2024 21:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek.tex
-(/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek.tex
+**"/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek v1.2.tex"
+(/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek v1.2.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -203,8 +203,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count277
 \l__pdf_internal_box=\box54
-) (./fizika_kerdesek.aux)
-\openout1 = `fizika_kerdesek.aux'.
+) (./fizika_kerdesek v1.2.aux)
+\openout1 = `"fizika_kerdesek v1.2.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -292,22 +292,22 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./fizika_kerdesek.toc)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./fizika_kerdesek v1.2.toc)
 \tf@toc=\write3
-\openout3 = `fizika_kerdesek.toc'.
+\openout3 = `"fizika_kerdesek v1.2.toc"'.
 
  [1
 
@@ -321,11 +321,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 [3
 
 ]
-Overfull \hbox (9.99307pt too wide) in paragraph at lines 63--64
-[]\OT1/cmr/m/n/10 (-20) T^^?omegpontrendszerben tel-jes im-pulzusa meg-marad, ha a t^^?omegpontrendszerre hat^^So k^^?uls}o $[]$. 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 67--68
 []\OT1/cmr/m/n/10 (+20) A munkat^^Setel ^^Sertelm^^Seben a testre hat^^So er}ok munk^^Saja egyenl}o a test
  []
@@ -341,8 +336,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 32--33
-[]\OT1/cmr/m/n/10 (+20) Newton t^^?orv^^Senyei ^^Sertelmezhet}ok gy-or-sul^^So vonatkoz-tat^^Sasi ren-sz-erek-ben is, ha bevezetj^^?uk a
+Underfull \hbox (badness 4132) in paragraph at lines 32--33
+[]\OT1/cmr/m/n/10 (+20) Newton t^^?orv^^Senyei ^^Sertelmezhet}ok gy-or-sul^^So vonatkoz-tat^^Sasi rend-sz-erek-ben is, ha bevezetj^^?uk a
  []
 
 
@@ -363,28 +358,38 @@ Underfull \hbox (badness 5119) in paragraph at lines 69--70
  []
 
 [6]
+Overfull \hbox (1.87816pt too wide) in paragraph at lines 110--111
+[]\OT1/cmr/m/n/10 (-20) Kepler I. t^^?orv^^Senye ^^Sertelm^^Seben a bolyg^^Sok $[]$. 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 112--113
 []\OT1/cmr/m/n/10 (+20) A munkat^^Setel ^^Sertelm^^Seben a testre hat^^So er}ok munk^^Saja egyenl}o a test
  []
 
-[7]) [8] (./sections/2019/2019.tex [9
 
-]
-Underfull \hbox (badness 2846) in paragraph at lines 60--61
+Underfull \hbox (badness 2503) in paragraph at lines 113--114
+[]\OT1/cmr/m/n/10 (+20) A p^^?orgetty}uk impulzusmomentum-vektor^^Sanak k^^?uls}o er}ok hat^^Sas^^Sara bek^^?ovetkez}o ir^^Sanyv^^Saltoz^^Sas^^Sat
+ []
+
+[7]) [8] (./sections/2019/2019.tex
+Underfull \hbox (badness 2846) in paragraph at lines 41--42
 []\OT1/cmr/m/n/10 (+20) Az adi-a-batikus ^^Sallapotv^^Saltoz^^Sasokat le^^S^^Pr^^So $\OML/cmm/m/it/10 PV[] \OT1/cmr/m/n/10 (+20) =$ \OT1/cmr/m/it/10 (+20) ^^Salland^^So \OT1/cmr/m/n/10 (+20) ^^?osszef^^?ugg^^Sesben a $\OML/cmm/m/it/10 k$ \OT1/cmr/m/n/10 (+20) kitev}o a g^^Saz
  []
 
+[9
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 []\OT1/cmr/m/n/10 (+20) F^^?old felsz^^S^^Pn^^Sehez k^^?ozel, k^^?orp^^Saly^^San ker-ing}o m}uhold cen-tripet^^Salis gy-or-sul^^Sasa meg-e-gyezik a
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 74--75
+Underfull \hbox (badness 1694) in paragraph at lines 55--56
 []\OT1/cmr/m/n/10 (+20) A neh^^Sezs^^Segi er}ot^^Ser konz-er-vat^^S^^Pv, hiszen az er}ot^^Ser ^^Saltal egy t^^?omegponton v^^Segzett munka csak
  []
 
-) [10] [11] (./sections/2021/2021.tex
+[10]) [11] (./sections/2021/2021.tex
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 []\OT1/cmr/m/n/10 (+20) Ha egy t^^?omegpont sebess^^Seg-id}o f^^?uggv^^Seny^^Senek v^^Saltoz^^Sasi sebess^^Seg^^Set hat^^Sarozzuk meg, a
  []
@@ -415,35 +420,35 @@ Underfull \hbox (badness 5696) in paragraph at lines 132--133
 
 ) [18] (./sections/2023/2023.tex
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
-[]\OT1/cmr/m/n/10 (+20) Egy pon-trend-szer perdlet^^Senek id}o sz-er-inti de-riv^^Saltja (v^^Saltoz^^Sasa) egyenl}o a
+[]\OT1/cmr/m/n/10 (+20) Egy pon-trend-szer perd^^?ulet^^Senek id}o sz-er-inti de-riv^^Saltja (v^^Saltoz^^Sasa) egyenl}o a
  []
 
 [19
 
 ]
-Overfull \hbox (102.26619pt too wide) in paragraph at lines 76--77
-[]\OT1/cmr/m/n/10 (-20) A munkat^^Setel ^^Sertelm^^Seben a t^^?omegpontra hat^^So er}o $[]$. 
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+[]\OT1/cmr/m/n/10 (+20) Ha egy t^^?omegpont sebess^^Seg-id}o f^^?uggv^^Seny^^Senek id}o sz-er-inti de-riv^^Saltj^^Sat ^^Sall^^S^^Ptjuk el}o, a
  []
 
-[20]) [21] (./fizika_kerdesek.aux)
+[20]) [21] (./fizika_kerdesek v1.2.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6491 strings out of 474934
- 100404 string characters out of 5759811
- 1941807 words of memory out of 5000000
- 27796 multiletter control sequences out of 15000+600000
- 567466 words of font info for 122 fonts, out of 8000000 for 9000
+ 6498 strings out of 474934
+ 100618 string characters out of 5759811
+ 1942807 words of memory out of 5000000
+ 27800 multiletter control sequences out of 15000+600000
+ 567816 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,65p,1081b,316s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on fizika_kerdesek.pdf (22 pages, 266423 bytes).
+ 57i,9n,65p,1088b,316s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "fizika_kerdesek v1.2.pdf" (22 pages, 277656 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
+ 155 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 30721 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 32769 words of extra memory for PDF output out of 35830 (max. 10000000)
 

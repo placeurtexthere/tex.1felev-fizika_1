@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  30 DEC 2023 15:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  8 JAN 2024 19:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -295,31 +295,31 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) [1
-
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 2846) in paragraph at lines 60--61
+)
+Underfull \hbox (badness 2846) in paragraph at lines 41--42
 []\OT1/cmr/m/n/10 (+20) Az adi-a-batikus ^^Sallapotv^^Saltoz^^Sasokat le^^S^^Pr^^So $\OML/cmm/m/it/10 PV[] \OT1/cmr/m/n/10 (+20) =$ \OT1/cmr/m/it/10 (+20) ^^Salland^^So \OT1/cmr/m/n/10 (+20) ^^?osszef^^?ugg^^Sesben a $\OML/cmm/m/it/10 k$ \OT1/cmr/m/n/10 (+20) kitev}o a g^^Saz
  []
 
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 []\OT1/cmr/m/n/10 (+20) F^^?old felsz^^S^^Pn^^Sehez k^^?ozel, k^^?orp^^Saly^^San ker-ing}o m}uhold cen-tripet^^Salis gy-or-sul^^Sasa meg-e-gyezik a
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 74--75
+Underfull \hbox (badness 1694) in paragraph at lines 55--56
 []\OT1/cmr/m/n/10 (+20) A neh^^Sezs^^Segi er}ot^^Ser konz-er-vat^^S^^Pv, hiszen az er}ot^^Ser ^^Saltal egy t^^?omegponton v^^Segzett munka csak
  []
 
@@ -330,18 +330,18 @@ L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6345 strings out of 474934
- 98693 string characters out of 5759811
- 1939807 words of memory out of 5000000
+ 6347 strings out of 474934
+ 98709 string characters out of 5759811
+ 1941807 words of memory out of 5000000
  27772 multiletter control sequences out of 15000+600000
- 562289 words of font info for 70 fonts, out of 8000000 for 9000
+ 562340 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,5n,82p,1084b,232s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on sections/2019/2019.pdf (3 pages, 105138 bytes).
+ 77i,5n,82p,1084b,250s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on sections/2019/2019.pdf (3 pages, 114715 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  14337 words of extra memory for PDF output out of 14400 (max. 10000000)
 

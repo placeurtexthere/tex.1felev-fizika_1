@@ -14,10 +14,10 @@
 \contentsline {subsection}{\numberline {3.5}2018.12.13. - Pót Pót Nagy ZH}{7}{}%
 \contentsline {subsection}{\numberline {3.6}2018.12.19. - Vizsga}{7}{}%
 \contentsline {section}{\numberline {4}2019}{9}{}%
-\contentsline {subsection}{\numberline {4.1}2019.11.14. - Nagy ZH}{9}{}%
-\contentsline {subsection}{\numberline {4.2}2019.01.09. - Vizsga}{9}{}%
-\contentsline {subsection}{\numberline {4.3}2019.01.16. - Vizsga}{10}{}%
-\contentsline {subsection}{\numberline {4.4}2019.01.21. - Vizsga}{10}{}%
+\contentsline {subsection}{\numberline {4.1}2019.01.09. - Vizsga}{9}{}%
+\contentsline {subsection}{\numberline {4.2}2019.01.16. - Vizsga}{9}{}%
+\contentsline {subsection}{\numberline {4.3}2019.01.21. - Vizsga}{10}{}%
+\contentsline {subsection}{\numberline {4.4}2019.11.14. - Nagy ZH}{10}{}%
 \contentsline {section}{\numberline {5}2021}{12}{}%
 \contentsline {subsection}{\numberline {5.1}2021.11.12. - Nagy ZH}{12}{}%
 \contentsline {subsection}{\numberline {5.2}2021.01.06.}{12}{}%
@@ -26,7 +26,7 @@
 \contentsline {section}{\numberline {6}2022}{15}{}%
 \contentsline {subsection}{\numberline {6.1}2022.01.08.}{15}{}%
 \contentsline {subsection}{\numberline {6.2}2022.01.08.}{15}{}%
-\contentsline {subsection}{\numberline {6.3}2018.01.15.}{16}{}%
+\contentsline {subsection}{\numberline {6.3}2022.01.15.}{16}{}%
 \contentsline {subsection}{\numberline {6.4}2022.01.22.}{16}{}%
 \contentsline {subsection}{\numberline {6.5}2022.01.29.}{17}{}%
 \contentsline {subsection}{\numberline {6.6}2022.11.10. - Nagy ZH}{17}{}%
