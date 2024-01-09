@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  8 JAN 2024 21:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  9 JAN 2024 14:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek v1.2.tex"
-(/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek v1.2.tex
+**/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek.tex
+(/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -203,8 +203,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count277
 \l__pdf_internal_box=\box54
-) (./fizika_kerdesek v1.2.aux)
-\openout1 = `"fizika_kerdesek v1.2.aux"'.
+) (./fizika_kerdesek.aux)
+\openout1 = `fizika_kerdesek.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -305,9 +305,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./fizika_kerdesek v1.2.toc)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./fizika_kerdesek.toc)
 \tf@toc=\write3
-\openout3 = `"fizika_kerdesek v1.2.toc"'.
+\openout3 = `fizika_kerdesek.toc'.
 
  [1
 
@@ -430,22 +430,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--71
 []\OT1/cmr/m/n/10 (+20) Ha egy t^^?omegpont sebess^^Seg-id}o f^^?uggv^^Seny^^Senek id}o sz-er-inti de-riv^^Saltj^^Sat ^^Sall^^S^^Ptjuk el}o, a
  []
 
-[20]) [21] (./fizika_kerdesek v1.2.aux)
+[20]) [21] (./fizika_kerdesek.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6498 strings out of 474934
- 100618 string characters out of 5759811
+ 6496 strings out of 474934
+ 100455 string characters out of 5759811
  1942807 words of memory out of 5000000
- 27800 multiletter control sequences out of 15000+600000
+ 27798 multiletter control sequences out of 15000+600000
  567816 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,65p,1088b,316s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,9n,65p,1081b,316s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "fizika_kerdesek v1.2.pdf" (22 pages, 277656 bytes).
+Output written on fizika_kerdesek.pdf (22 pages, 277707 bytes).
 PDF statistics:
  155 PDF objects out of 1000 (max. 8388607)
  98 compressed objects within 1 object stream

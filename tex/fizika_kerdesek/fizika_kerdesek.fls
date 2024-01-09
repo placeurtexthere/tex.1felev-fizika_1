@@ -2,8 +2,8 @@ PWD /Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek v1.2.tex
-OUTPUT fizika_kerdesek v1.2.log
+INPUT /Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek.tex
+OUTPUT fizika_kerdesek.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
@@ -82,10 +82,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./fizika_kerdesek v1.2.aux
-INPUT ./fizika_kerdesek v1.2.aux
-INPUT fizika_kerdesek v1.2.aux
-OUTPUT fizika_kerdesek v1.2.aux
+INPUT ./fizika_kerdesek.aux
+INPUT ./fizika_kerdesek.aux
+INPUT fizika_kerdesek.aux
+OUTPUT fizika_kerdesek.aux
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -127,13 +127,13 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
-OUTPUT fizika_kerdesek v1.2.pdf
+OUTPUT fizika_kerdesek.pdf
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT ./fizika_kerdesek v1.2.toc
-INPUT ./fizika_kerdesek v1.2.toc
-INPUT fizika_kerdesek v1.2.toc
-OUTPUT fizika_kerdesek v1.2.toc
+INPUT ./fizika_kerdesek.toc
+INPUT ./fizika_kerdesek.toc
+INPUT fizika_kerdesek.toc
+OUTPUT fizika_kerdesek.toc
 INPUT ./sections/2016/2016.tex
 INPUT sections/2016/2016.tex
 INPUT ./sections/2016/2016.tex
@@ -165,7 +165,7 @@ INPUT ./sections/2023/2023.tex
 INPUT sections/2023/2023.tex
 INPUT ./sections/2023/2023.tex
 INPUT sections/2023/2023.tex
-INPUT fizika_kerdesek v1.2.aux
+INPUT fizika_kerdesek.aux
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb

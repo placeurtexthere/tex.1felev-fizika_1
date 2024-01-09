@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1704745130 "/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek v1.2.tex" "fizika_kerdesek v1.2.pdf" "fizika_kerdesek v1.2" 1704745131 0
-  "/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek v1.2.tex" 1704745128 2014 a10bc7040aba24e6f8493927dbe5a075 ""
+["pdflatex"] 1704808669 "/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek.tex" "fizika_kerdesek.pdf" "fizika_kerdesek" 1704808671 0
+  "/Users/dave/Documents/GitHub/tex.1felev-fizika_1/tex/fizika_kerdesek/fizika_kerdesek.tex" 1704808669 2014 a10bc7040aba24e6f8493927dbe5a075 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -81,19 +81,19 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1694545731 4681924 2c19acd65d59ba67d808d6d74d1273b0 ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1694545878 8183370 1c525ac4ee073a127ca1a6d396f25aaf ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "fizika_kerdesek v1.2.aux" 1704745131 4146 10c809e2a4f4b424724bb7445a064071 "pdflatex"
-  "fizika_kerdesek v1.2.tex" 1704745128 2014 a10bc7040aba24e6f8493927dbe5a075 ""
-  "fizika_kerdesek v1.2.toc" 1704745131 2576 76a49d850c2cd2a4ce698e5ee799e550 "pdflatex"
-  "sections/2016/2016.tex" 1704729401 2175 79f0cb953659149b662e1d3c62fb7b22 ""
-  "sections/2017/2017.tex" 1704731174 8593 9c563240cb13436c7a656547e58951c4 ""
-  "sections/2018/2018.tex" 1704741603 15178 b3abaa8e3dbbbfaf0181dc35741fad44 ""
+  "fizika_kerdesek.aux" 1704808671 4146 10c809e2a4f4b424724bb7445a064071 "pdflatex"
+  "fizika_kerdesek.tex" 1704808669 2014 a10bc7040aba24e6f8493927dbe5a075 ""
+  "fizika_kerdesek.toc" 1704808671 2576 76a49d850c2cd2a4ce698e5ee799e550 "pdflatex"
+  "sections/2016/2016.tex" 1704804003 2174 964a8a4834bd284238e5d2d3427895ab ""
+  "sections/2017/2017.tex" 1704805255 8604 7fff93d445e0b20a8485a020de715666 ""
+  "sections/2018/2018.tex" 1704808664 15178 0424d9879504761175ac4a24300c1f76 ""
   "sections/2019/2019.tex" 1704739120 10055 acbcd45623c275d5d84074a583015909 ""
   "sections/2021/2021.tex" 1704741155 11049 1a865b9dc295541f0339a7b86e24a0ca ""
   "sections/2022/2022.tex" 1704743420 17479 044ec4e22ae942632535bce458687375 ""
   "sections/2023/2023.tex" 1704744894 10804 8850c92c8122a0af16efefd761239fe5 ""
   (generated)
-  "fizika_kerdesek v1.2.aux"
-  "fizika_kerdesek v1.2.log"
-  "fizika_kerdesek v1.2.pdf"
-  "fizika_kerdesek v1.2.toc"
+  "fizika_kerdesek.aux"
+  "fizika_kerdesek.log"
+  "fizika_kerdesek.pdf"
+  "fizika_kerdesek.toc"
   (rewritten before read)
