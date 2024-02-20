@@ -1,14 +1,163 @@
 \documentclass[../fizika.tex]{subfiles}
 
 \begin{document}
-    \begin{itemize}
-        \item Mozgások leírására szolgáló mennyiségek definíciói: skalár-vektor tulajdonságok, mértékegységek, alapvető összefüggéseik. Időfüggvények és pályagörbék.
-        \item Egyenletes és egyenletesen változó mozgások, hajítások: a mozgások függetlenségének elve.
-        \item Körmozgás és leíró mennyiségei: skalár-vektor tulajdonságok, mértékegységek, alapvető összefüggéseik, kapcsolatuk a kerületi mozgást jellemző mennyiségekkel.
-    \end{itemize}
-
     \subsection{Mozgások leírására szolgáló mennyiségek definíciói}
 
-         
+        \subsubsection{Hely, elmozdulás, sebesség és sebességvektor}
+
+            Vegyük fel mindenekelőtt egy egydimenziós \textit{koordinátarendszert}, jelöljük ki az origót és a pozitív $x$ tengelyt. Tegyük fel, hogy a $P$ részecske a $t_2$ időpillanatban az $x_1$ helyen van. Ha a részecske mozog, akkor a $t_2$ időpillanatban új, $x_2$ helyre kerül; azt mondjuk, hogy a részecske \textbf{elmozdulása} $x_2-x_1$. Ezt gyakran a görög $\Delta$ jellel fejezzük ki, ami általában egy mennyiség \textit{megváltozására} utal. Így az 
+            
+            Elmozdulás:
+
+            \begin{equation} \tag{1-1} \label{eq:1-1}
+                \Delta x = (x_2-x_1)
+            \end{equation} 
+            
+            \noindent A $\Delta x$ kifejezés mindig az adott $x$ mennyiség \textit{végső} és \textit{kezdeti} értékének különbségét jelentik. A pozitív $\Delta x$ érték pozitív $x$ irányú, a negatív $-x$ irányú elmozdulást jelöl.
+
+            Az \textbf{átlagsebességet} a pálya mentén megtett teljes út és a megtételéhez szükséges összes idő hányadosa adja.
+
+            Átlagsebesség:
+
+            \begin{equation} \tag{1-2} \label{eq:1-2}
+                \text{Átlagsebesség} = \frac{\text{Összes út}}{\text{Összes idő}} 
+            \end{equation} 
+
+            A következőkben az egyenesvonalú mozgás irányának figyelembevételére definiáljuk a $v_{\text{átl}}$ átlagsebesség-vektort.
+
+            Átlagsebesség Vektor:
+
+            \begin{equation*}
+                V_{\text{átl}} = \frac{\text{Elmozdulás}}{\text{Összes idő}}
+            \end{equation*}   
+
+            \begin{equation} \tag{1-3} \label{eq:1-3}
+                V_{\text{átl}} = \frac{\Delta x}{\Delta t} = \frac{(x_2 - x_1)}{t_2 - t_1} 
+            \end{equation} 
+
+            \noindent Itt $v_{\text{átl}}$ az elmozdulás  előjelétől függően pozitív és negatív is lehet. A pozitív érték azt jelenti, hogy a sebesség a pozitív $x$ irányba mutat, a negatív pedig azt, hogy a sebesség $-x$ irányú.
+
+            \paragraph{A pillanatnyi sebesség}
+
+                A mozgás finomabb részleteire figyelve definiálható a \textit{pillanatnyi sebesség}, ami a mozgást egy adott időpillanatban jellemzi.
+
+                A \eqref{eq:1-3} egyenlet szerint a $t_1, t_2$ időintervallumra az átlagsebesség $v_{\text{átl}} = \Delta x / \Delta t$. Ez az arány a $t_1$ időpillanathoz tartozó $P_1$ pontból a $t_2$ időpillanathoz tartozó $P_2$ végpontig tartó egyenes meredeksége.
+
+                \noindent A $\Delta x / \Delta t$ \textit{arány} (melyet \textit{különbségi hányadosnak} is nevezünk), egy jól meghatározott értékhez, a $t_1$ időpillanathoz tartozó érintő iránytangenséhez tart. Ezt az értéket nevezzük a $t_1$-hez tartozó $v$ \textbf{pillanatnyi sebességnek}.
+
+                Pillanatnyi sebesség, $v$ (a $t$ időpontban):
+
+                \begin{equation*} \tag{1-4} \label{eq:1-4}
+                    v = \lim_{\Delta t \rightarrow 0} \frac{\Delta x}{\Delta t} = \frac{dx}{dt}
+                \end{equation*}   
+                
+                \noindent A $t_1$ időpillanatban a görbe meredeksége pozitív, így a pillanatnyi sebesség is pozitív irányba mutat. A $t_2$ meredekség 0, ami azt jelzi, hogy (ekkor fordul meg a test) a sebesség zérus. A $t_3$ időpontban a meredekség negatív, s ez azt mutatja, hogy a sebesség negatív irányú.
+
+                A \textbf{pillanatnyi sebesség} nagysága megegyezik a \textit{pillanatnyi sebesség abszolút értékével}. 
+
+                A későbbiekben gyakran használjuk majd az előző feladatban kapott általános szabályt, ha $x$ másodfokú függvény (azaz $x = Ct^2$, ahol $C$ állandó), akkor a $v = dx/dt$ derivált $v=C't$ lineáris függvény, ahol $C'$ a $C$-től különböző állandó. Általában fennáll
+
+                \begin{equation}
+                    \text{Ha } x = Ct^n, \text{ akkor } \frac{dx}{dt} = nCt^{n-1}
+                \end{equation}
+
+                A $v = v(t)$ függvényábra minden pontban az $x = x(t)$ függvényábra megfelelő pontbeli érintőjének meredekségét adja meg. Negatív $t$ értékek esetén a meredekség is negatív és abszolút értékben annál nagyobb, minél meredekebb a görbe. A $t = 0$ pontban az érintő iránytangense zérus. Pozitív $t$-értékekre pedig pozitívvá válik.
+
+            \subsection{A gyorsulás}
+
+                \noindent Mindenki, aki már vezetett autót, és rálépett a gázra, tudja, hogy mindennapi értelemben a \textit{gyorsulás} a gépkocsi sebességének növekedését jelenti. A fizikában azonban ez a kifejezés általánosabb értelmet nyer és a lassulást is magában foglalja. Ha a $\Delta t = t_2 - t_1$ időtartam alatt egy test pillanatnyi sebessége $\Delta v = v_2 - v_1$-értékkel változik, akkor átlagos gyorsulása definíció szerint
+
+                Átlagos gyorsulás:
+
+                \begin{equation} 
+                    a_{\text{átl}} = \frac{\Delta v}{\Delta t}
+                \end{equation}
+
+                \noindent A definíció tartalmazza mind a gyorsulást ($a_{\text{átl}}$ pozitív), mind pedig a lassulást ($a_{\text{átl}}$ negatív). A gyorsulás tehát az időegységre eső sebességváltozás. Az SI rendszerben ez $m/s$ osztva másodperccel, azaz $m/s^2$
+
+                A pillanatnyi gyorsulást a pillanatnyi sebesség definíciójához hasonlóan határértékként értelmezhetjük, azaza a pillanatnyi gyorsulás a $\Delta v / \Delta t$ különbségi hányados határértéke, mindőn $\Delta t$ zérushoz tart\footnote[1]{A pillanatnyi gyorsulás második deriváltként is kifejezhető. Mivel $a = \frac{dv}{dt}; a = \frac{d}{dt}(\frac{dx}{dt}) = \frac{d^2x}{dt^2}$}.
+
+                Pillanatnyi gyorsulás:
+
+                \begin{equation} \tag{1-6} \label{eq:1-6}
+                    a = \lim_{\Delta t \rightarrow 0} \frac{\Delta v}{\Delta t} = \frac{dv}{dt} 
+                \end{equation}
+
+                Szavakban: ,,\textit{a} gyorsulás egyenlő a $\Delta v / \Delta t$ különbségi hányados határértékével, midőn $\Delta t$ zérushoz tart. Ezt a határértéket a sebesség idő szerinti deriváltjának nevezzük és $dv/dt$-vel jelüljük. A $v = v(t)$ grafikonon a $t$ pillanatbeli a gyorsulást $a$ \textit{sebességgrafikon t időpillanathoz tartozó ponthában meghúzott érintő iránytangense} adja meg. A \textit{gyorsulás} szó az esetek többségében \textit{pillanatnyi gyorsulást} jelent, ha kifejezetten $a_{\text{átl}}$-ról kivánunk beszélni, akkor az \textit{átlagos gyorsulás} kifejezést használjuk.
+
+            \subsection{Az egyenesvonalú egyenletesen gyorsuló mozgás kinematikai egyenletei}
+
+                \noindent Azért, hogy a megoldás a legáltalánosabb kezdeti feltételeket kielégítse, feltesszük, hogy $t_0$ kezdeti időpontban adott az $x_0$ kezdeti elmozdulás és $v_0$ kezdeti sebesség. Állandó gyorsulású mozgások esetén az $a$ pillanatnyi gyorsulás megegyezik az $a_{\text{átl}}$ átlagos gyorsulással:
+
+                \begin{equation*}
+                    a = \frac{Delta V}{\Delta t} = \frac{v-v_0}{t-0} = \frac{v-v_0}{t}
+                \end{equation*}
+
+                \noindent amiből átrendezéssel a 
+
+                \begin{equation} \tag{1-7} \label{eq:1-7}
+                    \boxed{v= v_0 + at \;\;\;\;\;\;\;\;\;\;\; \small(\text{állandó }a\text{ esetén})}
+                \end{equation}
+
+                \noindent összefüggéshez jutottunk. Ez a kinematikai feladatok megoldásában rendkívül hasznos un. első kinematikai egyenlet. Legyen a $t_0$ időpontban a kezdősebesség $v_0$. Egy későbbi $t$ időpontban a sebességet a $v = v_0 + at$ egyenes adja, amelynek meredeksége éppen $a = \Delta v/\Delta t$. Az ábrán az egyenes alatti satírozott terület két részre bontható. Az alső, sötétebb téglalap területe $v_0t$, a felső, enyhébben árnyékolt háromszög területe pedig $1/2(v-v_0)t$. Összeadva ezeket a területeket, azt kapjuk, hogy 
+
+                \begin{equation*}
+                    \left[\text{Az egyenes alatti jeles terület}\right] = v_0t+\frac{1}{2}(v-v_0)t= \left(v_0=\frac{v}{2}-\frac{v_0}{2}\right)t
+                \end{equation*}
+
+                \begin{equation*}
+                    \text{Terület} = \left(\frac{v_0+V}{2}t\right)
+                \end{equation*}
+
+                \noindent Az utóbbi formulában a tázójelben éppen a kezdeti és a végsebesség átlaga szerepel, ami a gyorsulás állandósága miatt a $a_{\text{átl}} = \frac{\Delta x}{\Delta t}$ átlagsebességvektorral egyenlő. Felhasználva, hogy $t_0 = 0$ következtében fennáll a $\Delta t = t$-összefüggés, a $\Delta x = x-x_0$, valamint a $\Delta x = a_{\text{átl}}t$ formulák egybevetéséből azt kapjuk, hogy 
+
+                \begin{equation*} \tag{1-8} \label{eq:1-8}
+                    x-x_0= \left[\frac{v_0+v}{2}tableofcontents\right] \;\;\;\;\;\;\;\;\;\;\; (\text{állandó }a\text{ esetén})
+                \end{equation*}
+
+                \noindent Összehasonlítva a két utolsó egyenletet, látható, hogy az $x-x_0$ eredő elmozdulás megegyezik a $v= v(t)$ grafikon alatti területtel. 
+
+                Behelyettesítve a \eqref{eq:1-7} egyenletbe a $v = v_0 + at$ összefüggést, majd az eredményt átrendezve megkapjuk a második kinematikai egyenletnek nevezett formulát:
+
+                \begin{equation*} \tag{1-9} \label{eq:1-9}
+                    \boxed{x=x_0=v_0t+\frac{1}{2}at^2 \;\;\;\;\;\;\;\;\;\;\; (\text{állandó gyorsulás esetén})} 
+                \end{equation*}
+
+                A harmadik szintén nagyon hasznos kinematikai egyenlethez úgy juthatunk el, ha a \eqref{eq:1-7} és \eqref{eq:1-9} egyenletekből elimináljuk az időt. Eredményül a 
+
+                \begin{equation*} \tag{1-10} \label{eq:1-10}
+                    \boxed{v^2=v_0^2+2a(x-x_0) \;\;\;\;\;\;\;\;\;\;\; (\text{állandó }a\text{ esetén})}
+                \end{equation*}
+
+                \noindent formulát kapjuk. \\ Ez utóbbi összefüggés olyan feladatok lehet hasznos, amelyekben az időt nem ismerjük. 
+
+                A kinematikai egyenletek tovább egyszerüsíthetők, ha a koordinátarendszer kezdőpontját ott vesszük fel, ahol a részecske a $t_0 = 0$ időpontban tartózkodik. Ekkor $x_0 = 0$és így két kinematikai egyenlet is egyszerűbbé válik. Természetesen az origó nem mindig választható meg így, amennyiben azonban ez lehetséges, akkor már kezdettől fogva eggyel kevesebb paraméterrel kell dolgoznunk.
+
+                \noindent\fbox{%
+                    \parbox{\linewidth-10pt}{
+                        \textbf{\;\;\;\;\;\;\;Az egyenesvonalú egyenletesen gyorsuló mozgás kinematikai egyenletei}
+
+                        \begin{subequations}
+                            \begin{empheq}[right={\empheqrbrace =\text{(állandó gyorsulás esetén)}}]{align}
+                                v =& v_0 + at \tag{1-11} \label{1-11}\\
+                                v =& x_0 + v_0t+\frac{1}{2}at^2 \tag{1-12} \label{1-12}\\
+                                v_2 =& v_0^2+2a(x-x_0) \tag{1-13} \label{1-13}
+                            \end{empheq}
+                        \end{subequations}
+                    }
+                }
+
+            
 
 \end{document}
+
+
+$v_{\text{átl}}$ 
+
+\begin{subequations}
+    \begin{empheq}[right={\empheqrbrace =f(x)}]{align}
+        v =& v_0 + at \tag{1-11} \label{1-11}\\
+        v =& x_0 + v_0t+\frac{1}{2}at^2 \tag{1-12} \label{1-12}\\
+        v_2 =& v_0^2+2a(x-x_0) \tag{1-13} \label{1-13}
+    \end{empheq}
+  \end{subequations}

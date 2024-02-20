@@ -1,13 +1,28 @@
-\documentclass[10pt]{article}
+\documentclass[12pt]{article}
 \usepackage{amssymb}
-\usepackage{amsmath}
 \usepackage{subfiles}
 \usepackage[usenames,dvipsnames]{xcolor}
 \usepackage{indentfirst}
 \usepackage{microtype}
 \usepackage{graphicx}
+\usepackage{mathtools} %minden amsmath eszköz benne van
+\usepackage[hidelinks]{hyperref}
 \usepackage{geometry}
 	\geometry{a4paper, total={170mm,257mm}, left=20mm, top=20mm, }
+
+\usepackage[explicit]{titlesec}
+\usepackage{ulem}
+\usepackage{cases} %egy cases-ben minden sor megszámozható vele
+
+\usepackage{empheq}
+
+
+\setcounter{secnumdepth}{4}
+\titleformat{\paragraph}[runin]
+	{\normalfont\normalsize\bfseries}{}{10pt}{\theparagraph\hspace*{1em}#1.}
+\titleformat{name=\paragraph,numberless}[runin]
+	{\normalfont\normalsize\bfseries}{}{10pt}{#1.}
+	
 
 \renewcommand*\contentsname{Tartalomjegyzék}
 
