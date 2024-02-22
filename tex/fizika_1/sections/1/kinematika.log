@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  19 FEB 2024 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  22 FEB 2024 14:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -364,10 +364,123 @@ Package: empheq 2017/03/31 v2.15 Emphasizing equations
 \EQ_mathdisplay_box=\box59
 \EQ_tag_box=\box60
 \g_EQ_temprow_int=\count296
-))) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count297
+\mult@box=\box61
+\multicol@leftmargin=\dimen194
+\c@unbalance=\count298
+\c@collectmore=\count299
+\doublecol@number=\count300
+\multicoltolerance=\count301
+\multicolpretolerance=\count302
+\full@width=\dimen195
+\page@free=\dimen196
+\premulticols=\dimen197
+\postmulticols=\dimen198
+\multicolsep=\skip62
+\multicolbaselineskip=\skip63
+\partial@page=\box62
+\last@line=\box63
+\mc@boxedresult=\box64
+\maxbalancingoverflow=\dimen199
+\mult@rightbox=\box65
+\mult@grightbox=\box66
+\mult@firstbox=\box67
+\mult@gfirstbox=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\c@minrows=\count303
+\c@columnbadness=\count304
+\c@finalcolumnbadness=\count305
+\last@try=\dimen256
+\multicolovershoot=\dimen257
+\multicolundershoot=\dimen258
+\mult@nat@firstbox=\box105
+\colbreak@box=\box106
+\mc@col@check@num=\count306
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count307
+\c@Blindtext=\count308
+\c@blind@countparstart=\count309
+\blind@countxx=\count310
+\blindtext@numBlindtext=\count311
+\blind@countyy=\count312
+\c@blindlist=\count313
+\c@blindlistlevel=\count314
+\c@blindlist@level=\count315
+\blind@listitem=\count316
+\c@blind@listcount=\count317
+\c@blind@levelcount=\count318
+\blind@mathformula=\count319
+\blind@Mathformula=\count320
+\c@blind@randomcount=\count321
+\c@blind@randommax=\count322
+\c@blind@pangramcount=\count323
+\c@blind@pangrammax=\count324
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/eqparbox/eqparbox.sty
+Package: eqparbox 2017/09/03 v4.1 Create equal-widthed boxes
+\eqp@tempdima=\skip64
+\eqp@tempdimb=\skip65
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen259
+\ar@mcellbox=\box107
+\extrarowheight=\dimen260
+\NC@list=\toks29
+\extratabsurround=\skip66
+\backup@length=\skip67
+\ar@cellbox=\box108
+)
+\eqp@tabular@box=\box109
+\eqp@list@box=\box110
+\eqp@list@indent=\skip68
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))))) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count297
-\l__pdf_internal_box=\box61
+\l__color_backend_stack_int=\count325
+\l__pdf_internal_box=\box111
 ) (./kinematika.aux)
 \openout1 = `kinematika.aux'.
 
@@ -391,17 +504,17 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count298
-\scratchdimen=\dimen194
-\scratchbox=\box62
-\nofMPsegments=\count299
-\nofMParguments=\count300
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count301
-\MPscratchDim=\dimen195
-\MPnumerator=\count302
-\makeMPintoPDFobject=\count303
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count326
+\scratchdimen=\dimen261
+\scratchbox=\box112
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen262
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
+\everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -480,61 +593,88 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-pdfTeX warning (ext4): destination with the same identifier (name{equation.0.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.62                 \end{equation}
-                                   
-pdfTeX warning (ext4): destination with the same identifier (name{equation.0.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.62                 \end{equation}
-                                   ]
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 99.
+LaTeX Font Warning: Command \small invalid in math mode on input line 79.
 
-[2
+[2]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.0.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.103 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.0.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.103 
-      ]
-pdfTeX warning (ext4): destination with the same identifier (name{equation.0.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.148                 }
-                       
-Overfull \hbox (0.71661pt too wide) in paragraph at lines 136--149
+l.124                     }
+                           
+Overfull \hbox (0.71661pt too wide) in paragraph at lines 112--125
 [] 
  []
 
-[3] (./kinematika.aux)
+
+LaTeX Warning: Reference `eq:1-6' on page 3 undefined on input line 136.
+
+[3] [4]
+Overfull \hbox (3.90271pt too wide) in paragraph at lines 213--214
+\OT1/cmr/m/n/12 (-20) bevezett^^?uk az egy-di-menzi^^Sos ko-ordin^^Satarendszert,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+[]\OT1/cmr/m/n/12 (+20) Az ^^S^^Pgy bevezetett men-nyis^^Segeknek
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+[]\OT1/cmr/m/n/12 (+20) A kine-matikai jellemz}ok \OT1/cmr/m/it/12 (+20) pil-lanat-nyi
+ []
+
+
+Overfull \hbox (9.3374pt too wide) detected at line 239
+[]
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 259--260
+\OT1/cmr/m/n/12 (+20) A mozg^^Sasokkal kapc-so-latos fe-lada-tok a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+[]\OT1/cmr/m/it/12 (+20) V^^Sazlatot k^^Sesz^^S^^Pt^^?unk. \OT1/cmr/m/n/12 (+20) Ki-jel^^?olj^^?uk a
+ []
+
+
+Underfull \hbox (badness 5245) in paragraph at lines 262--263
+\OT1/cmr/m/n/12 (+20) ker^^?ulj^^?on amen-nyi vil^^Sagoss^^Sa teszi a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\OT1/cmr/m/n/12 (+20) fe-lada-tok k^^?ul^^?onb^^?oz}o r^^Seszei k^^?oz^^?otti
+ []
+
+[5] [6] (./kinematika.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `kinematika.out' has not changed.
-(rerunfilecheck)             Checksum: 750D9B84BC3740B689D87825B80B3001;1172.
+(rerunfilecheck)             Checksum: 3A0BCF90166B3C780C0D688A0B6DB4A1;1811.
  ) 
 Here is how much of TeX's memory you used:
- 14118 strings out of 474934
- 220398 string characters out of 5759811
- 1941807 words of memory out of 5000000
- 35360 multiletter control sequences out of 15000+600000
- 569960 words of font info for 119 fonts, out of 8000000 for 9000
+ 14701 strings out of 474934
+ 230674 string characters out of 5759811
+ 1949807 words of memory out of 5000000
+ 35896 multiletter control sequences out of 15000+600000
+ 570471 words of font info for 128 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,13n,99p,1080b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,20n,99p,1080b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on kinematika.pdf (3 pages, 164805 bytes).
+Output written on kinematika.pdf (6 pages, 183132 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
- 22561 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 165 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 22585 words of extra memory for PDF output out of 24883 (max. 10000000)
 
